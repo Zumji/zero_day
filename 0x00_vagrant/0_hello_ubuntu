@@ -1,1 +1,2 @@
- it print certain system information
+ #!/bin/bash
+it prints the os of the computer
